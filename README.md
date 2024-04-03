@@ -12,8 +12,10 @@
    
     1.  HTML
         *  Basics of HTML
+        *  Dividing into sections and DOM structure
+        *  semantic HTML
     2.  CSS
-        *   Basics of CSS
+        *  Basics of CSS
         *  Tailwind CSS
         *  grid and flexbox
     3. JS 
