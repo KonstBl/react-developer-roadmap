@@ -32,7 +32,7 @@
         * [npm scripts](https://docs.npmjs.com/misc/scripts)
 3. Styling
     1. CSS Preprocessor
-        * [Sass/CSS](https://sass-lang.com/)
+        * [Sass/SCSS](https://sass-lang.com/)
     2. CSS Frameworks
         * [Bootstrap](https://getbootstrap.com/)
         * [TailwindCSS](https://tailwindcss.com/)
